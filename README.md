@@ -16,3 +16,7 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 * mutton samosas
 * Mutton rolls
 
+
+Link to MyStats.md <[MyStats]>
+
+[def]: ttps://github.com/HariChaithanya/my2-kotapati/blob/main/MyStats.md
