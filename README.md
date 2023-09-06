@@ -17,6 +17,4 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 * Mutton rolls
 
 
-Link to MyStats.md <[MyStats]>
-
-[def]: ttps://github.com/HariChaithanya/my2-kotapati/blob/main/MyStats.md
+**[MyStats](MyStats.md)** link to the Mystats.md

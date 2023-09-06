@@ -4,4 +4,4 @@ I have completed my Under Graduation in 2021 at Crescent university.After that i
 I am very much interested in playing sports like cricket and volleyball.
 
 
-![MyPhoto](C:\Users\S567067\Desktop\webapps-repos/Harichaithanya.jpeg) 
+![MyPhoto](webapps-repos/Harichaithanya.jpg)
