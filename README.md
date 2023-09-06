@@ -5,7 +5,14 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 
 *****
 
-##Activities in my favourite spot
-1.Boating
-2.Kayaking
-3.Canoeing
+
+## Activities in my favourite spot
+1. Boating
+2. Kayaking
+3. Canoeing
+
+##  List of dishes of food items 
+* Fish Curry
+* mutton samosas
+* Mutton rolls
+
