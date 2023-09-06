@@ -6,6 +6,6 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 *****
 
 ##Activities in my favourite spot
-1.Boating
-2.Kayaking
-3.Canoeing
+1. Boating
+2. Kayaking
+3. Canoeing
