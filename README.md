@@ -18,3 +18,14 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 
 
 **[MyStats](MyStats.md)** link to the Mystats.md
+
+******
+
+## My recomended sports
+
+| Sport_Name         | Reason                          | Weekly Hours |
+|----------------|---------------------------------|--------------|
+| Cricket         | improve endurance and stamina   | 4-5 hours    |
+| Volley Ball        |  improve hand-eye coordinations  | 2-3 hours    |
+| Swimming       | Relaxation              | 4-6 hours    |
+| Soccer           | Enhances flexibility and peace  | 3-4 hours    |
