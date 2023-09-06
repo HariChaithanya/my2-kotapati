@@ -40,3 +40,30 @@ Here are some inspiring quotes by scientists that I admire.
 > "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck" - APJ Abdul Kalam
 
 > "Leadership is the capacity to translate vision into reality" - MS Dhoni
+
+
+****
+
+## Code Fencing
+
+```
+img {
+        height:100% !important;
+        width:100% !important;
+    }
+```
+[Remove attributes "height" and "width" of the image tag](https://stackoverflow.com/questions/11014165/remove-attributes-height-and-width-of-the-image-tag)
+
+```
+add_filter( 'post_thumbnail_html', 'remove_width_attribute', 10 );
+add_filter( 'image_send_to_editor', 'remove_width_attribute', 10 );
+
+function remove_width_attribute( $html ) {
+   $html = preg_replace( '/(width|height)="\d*"\s/', "", $html );
+   return $html;
+}
+```
+[Remove Width and Height Attributes From Inserted Images](https://css-tricks.com/snippets/wordpress/remove-width-and-height-attributes-from-inserted-images/)
+
+
+
