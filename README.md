@@ -10,7 +10,7 @@ Pondicherry, officially known as **Puducherry**, and commonly referred to as jus
 2. Kayaking
 3. Canoeing
 
-##  List of dishes of food found there
+##  List of dishes of food items 
 * Fish Curry
 * mutton samosas
 * Mutton rolls
